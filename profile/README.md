@@ -9,6 +9,7 @@
 - Spring Boot
 - Spring Cloud
 - Spring Reactive
-- SpringDoc OpenAPI
+- Springdoc OpenAPI
 - Testing
+- GraalVM
 - Others
