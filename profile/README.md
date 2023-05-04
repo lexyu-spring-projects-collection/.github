@@ -5,6 +5,8 @@
   - WebSocket
 - Spring MVC
 - Spring Data
+  - Spring Data JPA
+  - Spring Data Redis
 - Spring Security
 - Spring Boot
 - Spring Cloud
@@ -13,3 +15,7 @@
 - Testing
 - GraalVM
 - Others
+  - AWS
+    - DynamoDB
+    - Cognito
+    - Lambda
