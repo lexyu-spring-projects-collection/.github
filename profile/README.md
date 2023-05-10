@@ -1,5 +1,4 @@
-# Spring Projects Practice Collection
-## TOC
+# Table of Content
 - Spring
   - AOP
   - WebSocket
