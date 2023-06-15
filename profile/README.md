@@ -7,14 +7,18 @@
   - Spring Data JPA
   - Spring Data Redis
 - Spring Security
+  - nimbus-jose-jwt
+  - OAuth2 Resource Server
 - Spring Boot
 - Spring Cloud
 - Spring Reactive
 - Springdoc OpenAPI
 - Testing
 - GraalVM
-- Others
-  - AWS
-    - DynamoDB
-    - Cognito
-    - Lambda
+- With AWS Service
+  - AWS SDK JAVA V2
+  - DynamoDB
+  - Cognito
+  - Lambda
+  - RDS
+  - ElastiCache
