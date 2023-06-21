@@ -23,6 +23,4 @@
   - RDS
   - ElastiCache
 - Spring Boot + Kuretno Java Client + Kurento Media Server
-  -  Loading Test
-    -  One to Many
-    -  Many to Many
+  -  Loading Test - One to Many & Many to Many
