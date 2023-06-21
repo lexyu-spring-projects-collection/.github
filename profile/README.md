@@ -22,3 +22,7 @@
   - Lambda
   - RDS
   - ElastiCache
+- Spring Boot + Kuretno Java Client + Kurento Media Server
+  -  Loading Test
+    -  One to Many
+    -  Many to Many
