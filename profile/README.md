@@ -23,5 +23,6 @@
   - RDS
   - S3
   - ElastiCache
+  - Secrets Manager
 - Signaling Server(Spring WebScoket) + Kuretno Java Client + Kurento Media Server(EC2 instance)
   -  EC2 instance Loading Test : One to Many & Many to Many (include Recording)
