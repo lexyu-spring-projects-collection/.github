@@ -17,11 +17,14 @@
 - GraalVM
 - With AWS Service
   - AWS SDK JAVA V2
-  - DynamoDB
   - Cognito
+  - API Gateway
   - Lambda
   - RDS
+  - DynamoDB
   - S3
+  - CloudWatch
+  - System Manager
   - ElastiCache
   - Secrets Manager
 - Signaling Server(Spring WebScoket) + Kuretno Java Client + Kurento Media Server(EC2 instance)
