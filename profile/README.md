@@ -14,6 +14,10 @@
 - Spring Reactive
 - Springdoc OpenAPI
 - Testing
+  - JUnit 5
+  - Mockito
+    - BDD
+  - AssertJ
 - GraalVM
 - With AWS Service
   - AWS SDK JAVA V2
