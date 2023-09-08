@@ -4,8 +4,9 @@
   - WebSocket
 - Spring MVC
 - Spring Data
-  - Spring Data JPA
-  - Spring Data Redis
+  - JPA
+  - Redis
+  - MongoDB
 - Spring Security
   - nimbus-jose-jwt
   - OAuth2 Resource Server
@@ -18,6 +19,7 @@
   - Mockito
     - BDD
   - AssertJ
+  - Hamcrest
 - GraalVM
 - With AWS Service
   - AWS SDK JAVA V2
