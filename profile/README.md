@@ -11,6 +11,7 @@
   - nimbus-jose-jwt
   - OAuth2 Resource Server
 - Spring Boot
+  - Logback (Logging Framework) + Kinesis / ELK
 - Spring Cloud
 - Spring Reactive
 - Springdoc OpenAPI
