@@ -30,6 +30,7 @@
   - DynamoDB
   - S3
   - CloudWatch
+  - Kinesis
   - System Manager
   - ElastiCache
   - Secrets Manager
