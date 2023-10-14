@@ -14,7 +14,7 @@
   - Logback (Logging Framework) + Kinesis / ELK
 - Spring Cloud
 - Spring Reactive
-- Springdoc OpenAPI
+- SpringDoc OpenAPI
 - Testing
   - JUnit 5
   - Mockito
