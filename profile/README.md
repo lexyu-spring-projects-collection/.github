@@ -12,6 +12,7 @@
   - OAuth2 Resource Server
 - Spring Boot
   - Logback (Logging Framework) + Kinesis / ELK
+  - Scheduling Tasks & Cron
 - Spring Cloud
   - Function
 - Spring Reactive
