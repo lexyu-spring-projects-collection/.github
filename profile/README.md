@@ -13,6 +13,7 @@
 - Spring Boot
   - Logback (Logging Framework) + Kinesis / ELK
   - Scheduling Tasks & Cron
+- Spring Batch
 - Spring Cloud
   - Function
 - Spring Reactive
